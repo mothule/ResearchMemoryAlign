@@ -1,0 +1,2 @@
+# ResearchMemoryAlign
+Swift のメモリアライメントに関して調べたときの調査コード
